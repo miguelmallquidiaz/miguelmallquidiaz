@@ -1,12 +1,6 @@
 <a href="#">![Logo](https://github.com/miguelmallquidiaz/miguelmallquidiaz/blob/main/banner%20GitHub.gif)
 </a>
-
-<h3 align="center">Hi there 👋 
-  <p align="center">
-    
- <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub+Profile!&center=true&width=360&height=30">
-</p>
-</h3>
+<p align="center">Welcome to my GitHub profile 👋</p>
 
 <p align="center">
   <a><img src="https://komarev.com/ghpvc/?username=miguelmallquidiaz&label=Profile%20views&color=0e75b6&style=flat" alt="miguelmallquidiaz"></a>
