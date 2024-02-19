@@ -31,7 +31,7 @@
 
 ## 🛠️ Personal projects:
 
-### [➡️ CourseManagerApiCrud](https://github.com/miguelmallquidiaz/SpringCourseManagerApi)
+### [➡️ Student Enrollment RESTful API](https://github.com/miguelmallquidiaz/Student-Enrollment-ApiRest)
  
  * It is an API developed with Spring Boot that allows you to manage students, teachers, enrollments and courses with CRUD operations, using Spring Boot, MySQL, Postman and Git technologies. The SCRUM methodology is applied, better managing the work using the Jira tool.
 
