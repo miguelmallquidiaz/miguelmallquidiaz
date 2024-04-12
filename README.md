@@ -29,10 +29,6 @@
 
 ## 🛠️ Personal projects:
 
-### [➡️ Student Enrollment RESTful API](https://github.com/miguelmallquidiaz/Student-Enrollment-ApiRest)
- 
- * It is an API developed with Spring Boot that allows you to manage students, teachers, enrollments and courses with CRUD operations, using Spring Boot, MySQL, Postman and Git technologies. The SCRUM methodology is applied, better managing the work using the Jira tool.
-
 ## 📊 GitHub Stats:
 <p align="left">
   <img alt="Isha's Github Stats" src="https://github-readme-stats.vercel.app/api?username=miguelmallquidiaz&show_icons=true&theme=radical">
