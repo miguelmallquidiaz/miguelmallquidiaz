@@ -1,4 +1,4 @@
-<a href="#">![Logo](https://github.com/miguelmallquidiaz/miguelmallquidiaz/blob/main/banner%20GitHub.gif)
+<a href="#">![Logo](https://github.com/miguelmallquidiaz/miguelmallquidiaz/blob/main/banner.gif)
 </a>
 <p align="center">Welcome to my GitHub profile 👋</p>
 
