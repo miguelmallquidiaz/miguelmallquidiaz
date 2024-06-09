@@ -17,9 +17,7 @@ Experienced developer in building attractive and secure web applications using R
 <!--tech stack icons-->
 <p align="center">
   <!--href="https://skillicons.dev"-->
-  <a href="#">
     <img src="https://skillicons.dev/icons?i=git,html,js,bootstrap,mysql,postman,react,spring" />
-  </a>
 </p>
 
 ## 🔗 Personal projects:
