@@ -13,12 +13,6 @@ Experienced developer in building attractive and secure web applications using R
 * 🎓 I specialize in backend development
 * 📫 Contact: **https://www.linkedin.com/in/miguel-mallqui/**
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/miguel-mallqui/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" style="width: 50px; height: 50px;" />
-  </a>
-</div>
-
 ## 🛠️ Tech Stack:
 <!--tech stack icons-->
 <p align="center">
