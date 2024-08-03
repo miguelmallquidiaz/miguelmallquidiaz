@@ -11,7 +11,7 @@ Experienced developer in building attractive and secure web applications using R
 ## 📖 About me
 * 🌱 I am currently learning React, data science and cloud computing.
 * 🎓 I specialize in backend development
-* 📫 Contact: **https://www.linkedin.com/in/miguel-mallqui/**
+* 📫 Contact: **https://www.linkedin.com/in/miguelmallqui**
 
 ## 🛠️ Tech Stack:
 <!--tech stack icons-->
