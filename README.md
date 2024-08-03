@@ -11,15 +11,29 @@ Experienced developer in building attractive and secure web applications using R
 ## 📖 About me
 * 🌱 I am currently learning React, data science and cloud computing.
 * 🎓 I specialize in backend development
-* 📫 Contact: **https://www.linkedin.com/in/miguelmallqui**
+* 📫 Contact: [LinkedIn](https://www.linkedin.com/in/miguelmallqui)
 
 ## 🛠️ Tech Stack:
-<!--tech stack icons-->
-<p align="center">
-  <a href="https://skillicons.dev" >
-    <img src="https://skillicons.dev/icons?i=git,html,js,bootstrap,mysql,postman,react,spring" />
-  </a >
-</p>
+<div align="center">
+  <p>Frontend</p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,js,bootstrap,react" />
+  </a>
+</div>
+
+<div align="center">
+  <p>Backend</p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=php,java,spring,python,fastapi" />
+  </a>
+</div>
+
+<div align="center">
+  <p>Tools</p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,postman,mysql" />
+  </a>
+</div>
 
 ## 🔗 Personal projects:
 
