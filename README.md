@@ -1,34 +1,23 @@
-<a href="#">![Logo](https://github.com/miguelmallquidiaz/miguelmallquidiaz/blob/main/banner.gif)
-</a>
-<p align="center">Welcome to my GitHub profile 👋</p>
+# 👋 Hi, I'm Miguel Mallqui Diaz
 
-<p align="center">
-  <a><img src="https://komarev.com/ghpvc/?username=miguelmallquidiaz&label=Profile%20views&color=0e75b6&style=flat" alt="miguelmallquidiaz"></a>
-</p>
-
-Experienced developer in building attractive and secure web applications using React and Spring Boot. Constantly exploring new fields in the backend, data science, and cloud computing.
+Future Data Engineer | Learning automation, cloud and data tools to build smart solutions that solve real problems.
 
 ## 📖 About me
-* 🌱 I am currently learning React, data science and cloud computing.
-* 🎓 I specialize in backend development
-* 📫 Contact: [LinkedIn](https://www.linkedin.com/in/miguelmallqui)
+* 🌱 Currently learning Python, SQL, Apache Airflow, and cloud computing.
+* 📊 Exploring Power BI, Power Automate, and Power Apps for business automation.
+* ⚙️ Interested in data engineering, RPA and analytics.
+* 📫 Contact:
+<a href="https://www.linkedin.com/in/miguelmallqui" target="blank">
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="miguel-mallqui" />
+</a>
 
-## 🛠️ Tech Stack:
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=fff)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=fff)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=fff)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=fff)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000)
-
-[![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#)
-![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?logo=spring-boot&logoColor=fff)
+## 🛠️ Tech Stack
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=fff)
-[![FastAPI](https://img.shields.io/badge/FastAPI-009485.svg?logo=fastapi&logoColor=white)](#)
+![SQL](https://img.shields.io/badge/-SQL-003B57?logo=postgresql&logoColor=fff)
+![Power BI](https://img.shields.io/badge/-PowerBI-F2C811?logo=powerbi&logoColor=000)
+![Power Automate](https://img.shields.io/badge/-Power%20Automate-0066CC?logo=microsoft&logoColor=fff)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=fff)
 
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=fff)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=fff)
-[![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white)](#)
-
+## 📊 GitHub Stats
 ![Profile statistics](https://github-readme-stats.vercel.app/api?username=miguelmallquidiaz&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miguelmallquidiaz&hide_progress=true)
